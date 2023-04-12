@@ -16,7 +16,7 @@ Parcipating in this challenge is the best thing I can do because am on a journey
 ###  Day-0ne
 ## Exercises - Day 1
 ###         Exercise: Level 1
- **Question 1:** What is the purpose of this project?<br>
+ **Question 1:** Check the python that you are using<br>
 **Question 2:** Open the python interactive shell and do the following operations.
 The operands are 3 and 4.
 addition(+)
