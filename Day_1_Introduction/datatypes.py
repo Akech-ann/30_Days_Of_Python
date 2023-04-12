@@ -14,3 +14,4 @@ a = [2,3]
 b = [10,8]
 c = math.dist(a,b)
 print(c)
+
