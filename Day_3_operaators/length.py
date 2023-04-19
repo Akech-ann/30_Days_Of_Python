@@ -32,8 +32,7 @@ print("on" not in a and "on" not in b)
 # Even numbers are divisible by 2 and the remainder is zero. How do you 
 # check if a number is even or not using python?
 
-print(h%2==0)#checking for an even number
-print(h%2!=0)#checking for odd number
+
 
 
 
