@@ -377,7 +377,10 @@ print(countries.index('Lesotho'))
 print(countries.index("Zimbabwe"))
 
 #to add an item to a list
-countries.append("congo")
+countries.insert(0,"congo")
 print(countries)
 
+#unpacking variables means to separate a list.
 #scandic countries 
+ann = ['China', 'Russia', 'USA']
+anny = ['Finland', 'Sweden', 'Norway', 'Denmark']
