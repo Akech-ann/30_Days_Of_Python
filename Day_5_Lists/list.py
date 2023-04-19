@@ -107,7 +107,7 @@ middle_index = len(my_list) // 2  # Get the index of the middle element
 middle_element = my_list[middle_index]  # Get the middle element
 print(middle_element)  # Output: 3
 
-my_list = [1, 2, 3, 4, 5,42,32,53,53]
+my_list = [1, 2, 3, 4, 5,42,32,53,53,23,342,24,42]
 middle_index = len(my_list) // 2  # Get the index of the middle element
 middle_element = my_list[middle_index]  # Get the middle element
 print(middle_element)  # Output: 3
