@@ -106,5 +106,8 @@ k = ("I am enjoying this challenge \n I just wonder what is next")
 print(k)
 
 
+print('Asabeneh\t250\tFinland\tHelsinki')
+print('Name\tAge\tcountry\tcity')
+
 
 
