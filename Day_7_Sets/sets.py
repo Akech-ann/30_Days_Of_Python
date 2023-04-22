@@ -50,7 +50,7 @@ print(len(c)>len(age))
 #set is a collection of unordered and unindexed distinct elements
 #tuple
 
-#list is a collection of o
+#list 
 
 #strings
 
